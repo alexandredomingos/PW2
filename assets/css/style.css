@@ -139,3 +139,6 @@ img.d-block.w-100 {
 .carousel-indicators .active {
   background-color: red;
 }
+.carousel-inner{
+  border-radius: 0.7rem;
+}
