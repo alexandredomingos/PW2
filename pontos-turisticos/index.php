@@ -52,7 +52,7 @@
                   <div class="card-body">
                     <h5 class="card-title">Nome</h5>
                     <p class="card-text">Descr</p>
-                   <a href='#' class='btn btn-success'>Ver Mais</a>
+                   <a href='#' class='btn btn-success'>Ver</a>
                   </div>
                 </div>
 
