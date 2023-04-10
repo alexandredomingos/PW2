@@ -11,10 +11,10 @@
 <body>
 
   <div class="topnav" id="myTopnav">
-    <a href="http://localhost/PW2-main/">Página Principal</a>
-    <a href="http://localhost/PW2-main/sobre">Sobre</a>
-    <a href="http://localhost/PW2-main/pontos-turisticos/">Pontos Turísticos</a>
-    <a href="#about">Cultura</a>
+    <a href="https://sobretrancoso.000webhostapp.com/">Página Principal</a>
+    <a href="https://sobretrancoso.000webhostapp.com/sobre">Sobre</a>
+    <a href="https://sobretrancoso.000webhostapp.com/pontos-turisticos/">Pontos Turísticos</a>
+    <a href="https://sobretrancoso.000webhostapp.com/cultura/">Cultura e Lazer</a>
     <a href="javascript:void(0);" class="icon" onclick="navbarrsponsive()">
       <i class="fa fa-bars"></i>
     </a>

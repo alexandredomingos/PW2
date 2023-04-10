@@ -55,9 +55,22 @@
         <div class="col-md-12">
         <div class="container">
           <div class="title">
-            <h1 style="font-family: courier,arial,helvetica">Descrição do Campo Militar</h1>
+            <h1 style="font-family: courier,arial,helvetica">Descrição da Antiga Casa da Camara</h1>
           </div>
-          <div class="texto">Apesar de ser um edifício muito simples, no qual sobressai apenas o brasão régio da fachada, detém um grande simbolismo por ser o local das antigas Casas da Câmara, Audiência e Cadeia, que estavam em construção no ano de mil quatrocentos e noventa e oito. O imóvel actual decorre, grosso modo, da reconstrução promovida em mil oitocentos e oitenta e seis - oitenta e sete, para aí se instalaram os mesmos serviços e outras repartições públicas. Cerca de quarenta anos depois, na sequência da edificação dos novos Paços do Concelho (mil novecentos e vinte), foi profundamente remodelado, passando a alojar somente o tribunal e a cadeia, até à inauguração do Palácio da Justiça, em mil novecentos e setenta e um.   </div>
+          <div class="texto">Apesar de ser um edifício muito simples, no qual sobressai
+apenas o brasão régio da fachada, detém um grande
+simbolismo por ser o local das antigas Casas da Câmara,
+Audiência e Cadeia, que estavam em construção no ano de
+mil quatrocentos e noventa e oito. O imóvel actual decorre,
+grosso modo, da reconstrução promovida em mil oitocentos e
+oitenta e seis - oitenta e sete, para aí se instalaram os
+mesmos serviços e outras repartições públicas. Cerca de
+quarenta anos depois, na sequência da edificação dos novos
+Paços do Concelho (mil novecentos e vinte), foi
+profundamente remodelado, passando a alojar somente o
+tribunal e a cadeia, até à inauguração do Palácio da Justiça,
+em mil novecentos e setenta e um.
+</div>
         </div>
       </section>   
         
