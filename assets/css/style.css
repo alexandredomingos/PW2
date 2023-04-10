@@ -1,3 +1,12 @@
+body {
+  height: 100%!important;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .topnav {
   overflow: hidden;
   /*background-color: #404001;*/
@@ -211,6 +220,11 @@ img.d-block.w-100 {
   margin: 0 auto;
   padding-top: 2rem;
 }
-footer{
-  float: bottom;
-}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
