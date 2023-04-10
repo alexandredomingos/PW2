@@ -20,13 +20,16 @@
 <section class="py-5 bg-light" id="scroll-target"> <!-- bg-light-->
     <div class="container px-5 my-5">
         <div class="row gx-5 align-items-center">
-            <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="../assets/images/sobre/sobre01.webp" alt="..." /></div>
-            <div class="col-lg-6">
+            <div class="col-lg-6" id="img"><img class="img-fluid rounded mb-5 mb-lg-0" src="../assets/images/sobre/sobre01.webp" alt="..." /></div>
+            <div class="col-lg-6" id="tit">
+                <div class="tit">
                 <h2 class="fw-bolder">Sobre Trancoso</h2>
+                </div>
+                <div class="texto1">
                 <p class="lead fw-normal text-muted mb-0">Trancoso é uma cidade portuguesa pertencente ao distrito da Guarda, na província da Beira Alta, região do Centro (Região das Beiras) e sub-região da Beira Interior Norte, com cerca de 3 420 habitantes (2011), situada num planalto em que o ponto mais alto tem 939 m de altitude.
 
                     É sede do município de Trancoso com 361,52 km² de área e 9 878 habitantes (2011), subdividido em 21 freguesias. O município é limitado a norte pelo município de Penedono, a nordeste por Mêda, a leste por Pinhel, a sul por Celorico da Beira, a sudoeste por Fornos de Algodres, a oeste por Aguiar da Beira e a noroeste por Sernancelhe.
-                    
+                    </div> 
                     
         </div>
     </div>

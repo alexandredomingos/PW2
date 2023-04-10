@@ -16,43 +16,37 @@
         ?>
     </header>
     <section class="gallery-section"> 
-        <!-- <div class="btn-group">
-            <button type="button" class="btn btn-primary" data-filter="1">Filtro 1</button>
-            <button type="button" class="btn btn-primary" data-filter="2">Filtro 2</button>
-            <button type="button" class="btn btn-primary" data-filter="*">Todos</button>
-          </div> -->
           <div class="container">
             <div class="col">
-              <div class='row row-cols-1 row-cols-md-3 g-4'>
-                <div class="card topic" style=" width: 20rem;">
+              <div class='row row-cols-1 row-cols-md-3 g-4' >
+                <div class="card topic" data-categoria="2">
                   <img src="../assets/images/turistico/antiga-casa-da-camara.jpg" class="card-img-top" alt="Casa Da Camara" style="width: 320px;height: 320px;">
                   <div class="card-body">
                     <h5 class="card-title">Antiga Casa da Camara</h5>
                     
-                   <a href='antiga-casa-da-camara' class='btn btn-success'>Ver Mais</a>
+                   <a href='antiga-casa-da-camara' class='btn btn-success' id="vermais">Ver Mais</a>
                   </div>
                 </div>
-                <div class="card topic" style=" width: 20rem;">
+                <div class="card topic" data-categoria="1" >
                   <img src="../assets/images/turistico/campo-militar-batalha-trancoso.jpg" class="card-img-top" alt="Campo Batalha Trancoso" style="width: 320px;height: 320px;">
                   <div class="card-body">
-                    <h5 class="card-title">Campo Militar da Batalha de Trancoso</h5>
+                    <h5 class="card-title">Campo Militar da Batalha</h5>
                     
-                   <a href='campo-militar-trancoso' class='btn btn-success'>Ver Mais</a>
+                   <a href='campo-militar-batalha' class='btn btn-success' id="vermais">Ver Mais</a>
                   </div>
                 </div>
-                <div class="card topic" style=" width: 20rem;">
+                <div class="card topic">
                   <img src="../assets/images/turistico/castelo.jpg" class="card-img-top" alt="Castelo Trancoso" style="width: 320px;height: 320px;">
                   <div class="card-body">
-                    <h5 class="card-title">Castelo</h5>
-                   <a href='castelo' class='btn btn-success'>Ver Mais</a>
+                    <h5 class="card-title" data-categoria="1">Castelo</h5>
+                   <a href='castelo' class='btn btn-success' id="vermais">Ver Mais</a>
                   </div>
                 </div>
-                <div class="card topic" style=" width: 20rem;">
-                  <img src="" class="card-img-top" alt="foto perfil" style="width: 320px;height: 320px;">
+                <div class="card topic">
+                  <img src="../assets/images/turistico/Pelourinho_Trancoso.jpg" class="card-img-top" alt="foto perfil" style="width: 320px;height: 320px;">
                   <div class="card-body">
-                    <h5 class="card-title">Nome</h5>
-                    <p class="card-text">Descr</p>
-                   <a href='#' class='btn btn-success'>Ver</a>
+                    <h5 class="card-title">Pelourinho de Trancoso</h5>
+                   <a href='pelourinho-trancoso' class='btn btn-success' id="vermais">Ver Mais</a>
                   </div>
                 </div>
 
@@ -61,6 +55,11 @@
           </div>
 
     </section>
+    <footer class="text-white text-center text-lg-start" style="background-color: #23242a;">
+        <?php
+          include '../includes/footer.php';
+        ?>
+      </footer>
 
     <script>
         $(document).ready(function() {

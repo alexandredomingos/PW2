@@ -142,3 +142,75 @@ img.d-block.w-100 {
 .carousel-inner{
   border-radius: 0.7rem;
 }
+#vermais{
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+  display: list-item;
+}
+.pontoturistic{
+  padding-top: 20px;
+}
+@media screen and (max-width: 768px) {
+  .tituristico{
+    padding-top: 20px;
+  }
+  .introtext{
+    margin-top: 10px;
+  }
+  #tit{
+    padding-bottom: 20px;
+  }
+  #defin{order:1;}
+  #imageprin{order:2;}
+  .textodescr .topico i,
+.textodescr .topico p,
+.textodescr .topico a {
+  display: inline-block;
+  padding: 5px!important;
+}
+#btnsc{
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+
+}
+
+.imageponto{
+  width: 100%;
+  height: auto;
+}
+.inicialimg{
+  width: 100%;
+  height: auto;
+}
+.textodescr .topico i,
+.textodescr .topico p,
+.textodescr .topico a {
+  display: inline-block;
+  padding: 15px;
+}
+.tituloturistic{
+  margin: 0 auto!important;
+  text-align: center!important;
+
+}
+.texto{
+  padding-bottom: 20px;
+}
+.show{
+  display: block;
+}
+.noshow{
+  display: none;
+}
+#botoes{
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+footer{
+  float: bottom;
+}
