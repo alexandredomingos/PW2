@@ -97,44 +97,5 @@
         </div>
     </div>
 </section>
-<section class="py-5">
-    <div class="container px-5 my-5">
-        <div class="row gx-5 align-items-center">
-            <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
-            <div class="col-lg-6">
-                <h2 class="fw-bolder">Freguesias de Trancoso</h2>
-                <p class="lead fw-normal text-muted mb-0">Trancoso está dividida em 21 Freguesias sendo elas: </p>
-                <div style="float:left; width:50%">
-                <ul>
-                    <li>Aldeia Nova</li>
-                    <li>Castanheira</li>
-                    <li>Cogula</li>
-                    <li>Cótimos</li>
-                    <li>Fiães</li>
-                    <li>Freches e Torres</li>
-                    <li>Grania</li>
-                    <li>Guilheiro</li>
-                    <li>Moimentinha</li>
-                    <li>Moreira de Rei</li>
-                    <li>
-                    Palhais
-                    </li>
-                </ul></div>
-                <div style="float:right; width:50%"><ul>
-                    <li>Póvoa do Concelho</li>
-                    <li>Reboleiro</li>
-                    <li>Rio de Mel</li>
-                    <li>Tamanhos</li>
-                    <li>Torre do Terrenho, Sebadelhe da Serra e Terrenho</li>
-                    <li>Trancoso (São Pedro e Santa Maria) e Souto Maior</li>
-                    <li>Valdujo</li>
-                    <li>Vale do Seixo e Vila Garcia</li>
-                    <li>Vila Franca das Naves e Feital</li>
-                    <li>Vilares e Carnicães</li>
-                </ul></div>
-            </div>
-        </div>
-    </div>
-</section>
 </body>
 </html>
