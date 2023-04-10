@@ -77,7 +77,7 @@
 <section class="py-5 bg-light" id="scroll-target"> <!-- bg-light-->
     <div class="container px-5 my-5">
         <div class="row gx-5 align-items-center">
-            <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="../assets/images/sobre/sobre01.webp" alt="..." /></div>
+            <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
             <div class="col-lg-6">
                 <h2 style="text-align: center;" class="fw-bolder">História</h2>
                 
