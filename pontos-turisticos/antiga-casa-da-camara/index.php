@@ -74,10 +74,7 @@ em mil novecentos e setenta e um.
         </div>
       </section>   
         
-      <footer class="text-white text-center text-lg-start footer" style="background-color: #23242a; position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;">
+      <footer class="text-white text-center text-lg-start" style="background-color: #23242a;">
         <?php
           include '../../includes/footer.php';
         ?>
